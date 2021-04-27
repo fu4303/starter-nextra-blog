@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2",
+    "gray-matter": "^4.0.3",
     "next": "latest",
     "nextra": "^0.4.3",
     "nextra-theme-blog": "^0.1.4",
