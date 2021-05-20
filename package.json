@@ -12,7 +12,7 @@
     "gray-matter": "^4.0.2",
     "next": "latest",
     "nextra": "^0.4.3",
-    "nextra-theme-blog": "^0.1.4",
+    "nextra-theme-blog": "^0.1.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "rss": "^1.2.2"
